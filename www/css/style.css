@@ -1,0 +1,16 @@
+/* Empty. Add your own CSS if you like */
+.listItem{
+	padding-left: 10px;
+	height: 30px;
+}
+
+.listItemText{
+	margin-top: 5px;
+	float: left;
+}
+
+.listItem.high{ border-left: 10px solid #ef4e3a; }
+
+.listItem.medium{ border-left: 10px solid #f0b840; }
+
+.listItem.low { border-left: 10px solid #66cc33; }
